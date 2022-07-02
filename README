@@ -1,5 +1,3 @@
-# Test
-
 This a public repository designed for testing my application, Hoard.sh. 
 
 Hoard.sh leverages the fantastic `milkdown` [^1] and `isomorphic-git` libraries [^2].
