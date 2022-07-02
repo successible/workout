@@ -1,4 +1,4 @@
-This a public repository designed for testing my application, documentthat.dev. 
+This a public repository designed for testing our application, `documentthat.dev`. 
 
 `documentthat.dev` leverages the fantastic `milkdown` [^1] and `isomorphic-git` libraries [^2].
 
